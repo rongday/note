@@ -1,0 +1,21 @@
+@charset "UTF-8";
+/**
+ * 
+ * @authors Jessica (owo.jessica@gmail.com)
+ * @date    2016-04-25 09:59:44
+ * @version $Id$
+ */
+
+#goTop {
+    display: none;
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    padding: 6px 10px;
+    font-size: 10px;
+    background: #00A199;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+    z-index: 999;
+}
